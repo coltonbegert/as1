@@ -32,5 +32,8 @@ http://stackoverflow.com/questions/18598255/android-create-a-toggle-button-with-
 http://stackoverflow.com/questions/14981233/android-arraylist-of-custom-objects-save-to-sharedpreferences-serializable
 // used to save and load the file
 
+http://stackoverflow.com/questions/4134117/edittext-on-a-popup-window
+// used in EditTextPopup
+
 
 
